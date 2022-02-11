@@ -1,0 +1,2 @@
+- O código foi feito na IDE "Code::Blocks" então leve em consideração a maneira em que estão organizados os arquivos na pasta;
+- Os arquivos ".txt" são de dois tipos, os com o final "import" são os formatados de maneira a serem importados pelo o software. Já os sem esse acrescento são os salvos como registros ou backups das tarefas criadas no software.
