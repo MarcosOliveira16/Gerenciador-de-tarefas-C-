@@ -1,0 +1,24 @@
+====================================================
+Titulo: Dingo bel
+Característica: Comemorativa
+Descricao: Comprar 5 presentes
+Dia/Mes/Ano: 24/12/2021
+Duração: 2 dias
+Local: My house
+Endereço: Rua Inaildo Gomes da Silva
+Atração: Peru de natal
+Tipo de evento: Feriado
+Quantidade de convidados: 6
+====================================================
+====================================================
+Titulo: Dia especial para ela
+Característica: Comemorativa
+Descricao: Se eu esquece sera o meu fim
+Dia/Mes/Ano: 29/12/2021
+Duração:  1 dia
+Local: My house
+Endereço: Rua Inaildo Gomes da Silva
+Atração: Ze Vaqueiro
+Tipo de evento: Aniversario
+Quantidade de convidados: 30
+====================================================

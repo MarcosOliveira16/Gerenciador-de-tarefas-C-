@@ -1,0 +1,18 @@
+====================================================
+Titulo: Campeonato de Fifa
+Característica: Lazer
+Descricao: Campeao leva um gift de 100 reais
+Dia/Mes/Ano: 04/12/2021
+Local: Casa do mano Luiz
+Endereco: Rua Augusto Jose Couto de Faria
+Tipo de pagamento: Não é uma atividade paga.
+====================================================
+====================================================
+Titulo: Construir carrinho
+Característica: Lazer
+Descricao: Usar madeira como carca‡a
+Dia/Mes/Ano: 05/12/2021
+Local: CI
+Endereco: Rua dos Escoteiros
+Tipo de pagamento: Dinheiro
+====================================================

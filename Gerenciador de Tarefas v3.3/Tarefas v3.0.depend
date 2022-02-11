@@ -1,0 +1,863 @@
+# depslib dependency file v1.0
+1634333676 source:c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+
+1634159611 source:c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\src\data.cpp
+	"Data.h"
+	<string>
+
+1634323052 c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\include\data.h
+	<string>
+	<chrono>
+
+1634329152 source:c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1634331434 c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\include\educacao.h
+	"Tarefa.h"
+	"vector"
+
+1634324857 c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+
+1634158679 source:c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\src\lazer.cpp
+	"Lazer.h"
+
+1634332763 c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\include\lazer.h
+	"Tarefa.h"
+	<vector>
+
+1634301161 source:c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\src\esporte.cpp
+	"Esporte.h"
+
+1634301169 c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\include\esporte.h
+	"Tarefa.h"
+	<vector>
+
+1634329266 source:c:\users\a lenda\documents\período 2\códigos em c++\lab lp1\lista 1 (oo)\tarefas 13\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+
+1634411573 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+
+1634412147 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+
+1634323052 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\include\data.h
+	<string>
+	<chrono>
+
+1634413354 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+
+1634332763 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\include\lazer.h
+	"Tarefa.h"
+	<vector>
+
+1634301169 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\include\esporte.h
+	"Tarefa.h"
+	<vector>
+
+1634159611 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\src\data.cpp
+	"Data.h"
+	<string>
+
+1634413354 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1634301161 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\src\esporte.cpp
+	"Esporte.h"
+
+1634158679 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\src\lazer.cpp
+	"Lazer.h"
+
+1634411682 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.0\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1634664529 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+
+1634570843 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1634323052 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\include\data.h
+	<string>
+	<chrono>
+
+1634665676 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+
+1634665676 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+
+1634665676 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\include\esporte.h
+	"Tarefa.h"
+	<vector>
+
+1634159611 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\src\data.cpp
+	"Data.h"
+	<string>
+
+1634665676 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1634665676 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\src\lazer.cpp
+	"Lazer.h"
+	<iomanip>
+
+1634570507 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1634665676 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas 2.1\tarefas v2.0\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1636975764 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+
+1636670248 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1636484031 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\include\data.h
+	<string>
+	<chrono>
+
+1636670260 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+
+1634730543 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+
+1636975813 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\include\esporte.h
+	"Tarefa.h"
+	<vector>
+
+1636456622 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\src\data.cpp
+	"Data.h"
+	<string>
+
+1634933713 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1634933713 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\src\lazer.cpp
+	"Lazer.h"
+
+1636408409 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1634688872 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1636670128 source:c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\src\gerenciador.cpp
+	"Gerenciador.h"
+
+1636492576 c:\users\a lenda\documents\projeto lp1 etp 2\tarefas v2.2\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+
+1637712548 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<exception>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+	"SwitchException.h"
+
+1637843189 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1637844589 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\include\data.h
+	<string>
+	<chrono>
+
+1637788206 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\include\esporte.h
+	"Tarefa.h"
+	<vector>
+	<fstream>
+
+1637788659 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+	<fstream>
+	<string>
+
+1637842933 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\src\data.cpp
+	"Data.h"
+	<string>
+
+1637774139 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1637774145 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1637843851 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\src\gerenciador.cpp
+	"Gerenciador.h"
+
+1637774772 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\src\lazer.cpp
+	"Lazer.h"
+
+1637844891 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1637088978 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\include\switchexception.h
+	<exception>
+	<string>
+
+1637089434 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.0\src\switchexception.cpp
+	"SwitchException.h"
+
+1637712548 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<exception>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+	"SwitchException.h"
+
+1637788578 c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1637789141 c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\include\data.h
+	<string>
+	<chrono>
+
+1637788206 c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\include\esporte.h
+	"Tarefa.h"
+	<vector>
+	<fstream>
+
+1637788659 c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+	<fstream>
+	<string>
+
+1637088978 c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\include\switchexception.h
+	<exception>
+	<string>
+
+1637089434 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\src\switchexception.cpp
+	"SwitchException.h"
+
+1637789364 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\src\data.cpp
+	"Data.h"
+	<string>
+
+1637774139 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1637774145 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1637789022 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\src\gerenciador.cpp
+	"Gerenciador.h"
+
+1637774772 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\src\lazer.cpp
+	"Lazer.h"
+
+1637788707 source:c:\users\a lenda\documents\projeto lp1 etp 3\3.2\tarefas v3.0\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1637712548 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<exception>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+	"SwitchException.h"
+
+1637843189 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1637844589 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\include\data.h
+	<string>
+	<chrono>
+
+1637788206 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\include\esporte.h
+	"Tarefa.h"
+	<vector>
+	<fstream>
+
+1637788659 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+	<fstream>
+	<string>
+
+1637088978 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\include\switchexception.h
+	<exception>
+	<string>
+
+1637842933 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\src\data.cpp
+	"Data.h"
+	<string>
+
+1637774139 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1637774145 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1637774772 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\src\lazer.cpp
+	"Lazer.h"
+
+1637089434 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\src\switchexception.cpp
+	"SwitchException.h"
+
+1637844891 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1637849918 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.0\src\gerenciador.cpp
+	"Gerenciador.h"
+	<algorithm>
+
+1637881999 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<exception>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+	"SwitchException.h"
+
+1637881999 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1637881999 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\data.h
+	<string>
+	<chrono>
+
+1637788206 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+	<fstream>
+
+1637773278 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\esporte.h
+	"Tarefa.h"
+	<vector>
+	<fstream>
+
+1637881999 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+	<fstream>
+	<string>
+
+1637088978 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\switchexception.h
+	<exception>
+	<string>
+
+1637774139 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1637774145 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1637774772 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\lazer.cpp
+	"Lazer.h"
+
+1637089434 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\switchexception.cpp
+	"SwitchException.h"
+
+1637881753 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\include\comemorativa.h
+	"Tarefa.h"
+
+1637881613 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\comemorativa.cpp
+	"Comemorativa.h"
+
+1637881999 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\data.cpp
+	"Data.h"
+	<string>
+
+1637881999 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\gerenciador.cpp
+	"Gerenciador.h"
+	<algorithm>
+
+1637881999 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.1\tarefas v3.0\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1637956201 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<exception>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+	"SwitchException.h"
+
+1637954362 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1637881999 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\data.h
+	<string>
+	<chrono>
+
+1637954362 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+	<fstream>
+
+1637954363 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+	<fstream>
+
+1637954363 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\esporte.h
+	"Tarefa.h"
+	<vector>
+	<fstream>
+
+1637953250 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Comemorativa.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+	<fstream>
+	<string>
+	<algorithm>
+
+1637088978 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\switchexception.h
+	<exception>
+	<string>
+
+1637881999 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\data.cpp
+	"Data.h"
+	<string>
+
+1637954363 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1637954363 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1637954676 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\gerenciador.cpp
+	"Gerenciador.h"
+	<algorithm>
+
+1637954363 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\lazer.cpp
+	"Lazer.h"
+
+1637089434 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\switchexception.cpp
+	"SwitchException.h"
+
+1637954552 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1637954363 source:c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\src\comemorativa.cpp
+	"Comemorativa.h"
+
+1637954363 c:\users\a lenda\documents\projeto lp1 etp 3\test\tarefas v3.2\include\comemorativa.h
+	"Tarefa.h"
+
+1637954363 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\comemorativa.cpp
+	"Comemorativa.h"
+
+1637954363 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\comemorativa.h
+	"Tarefa.h"
+
+1638034274 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1637963886 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\data.h
+	<string>
+	<chrono>
+
+1638016714 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1638017554 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+	<fstream>
+
+1638017946 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1638017946 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\esporte.h
+	"Tarefa.h"
+	<vector>
+	<fstream>
+
+1638017554 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\lazer.cpp
+	"Lazer.h"
+
+1638017554 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+	<fstream>
+
+1637089434 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\switchexception.cpp
+	"SwitchException.h"
+
+1637088978 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\switchexception.h
+	<exception>
+	<string>
+
+1638035495 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<exception>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+	"SwitchException.h"
+
+1638030052 c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Comemorativa.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+	<fstream>
+	<string>
+	<algorithm>
+
+1637963880 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\data.cpp
+	"Data.h"
+	<string>
+
+1638035575 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\gerenciador.cpp
+	"Gerenciador.h"
+	<algorithm>
+
+1638031867 source:c:\users\a lenda\documents\projeto lp1 etp 3\teste 2\tarefas v3.3\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1638117478 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<exception>
+	"Tarefa.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Gerenciador.h"
+	"SwitchException.h"
+
+1638034274 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\tarefa.h
+	<iostream>
+	<string>
+	"Data.h"
+	<vector>
+	<fstream>
+
+1637963886 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\data.h
+	<string>
+	<chrono>
+
+1638017554 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\educacao.h
+	"Tarefa.h"
+	"vector"
+	<string>
+	<fstream>
+
+1638017554 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\lazer.h
+	"Tarefa.h"
+	<vector>
+	<string>
+	<fstream>
+
+1638017946 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\esporte.h
+	"Tarefa.h"
+	<vector>
+	<fstream>
+
+1638115833 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\gerenciador.h
+	"Tarefa.h"
+	"Data.h"
+	"Educacao.h"
+	"Lazer.h"
+	"Esporte.h"
+	"Comemorativa.h"
+	<vector>
+	<iomanip>
+	<cctype>
+	<cstring>
+	<fstream>
+	<string>
+	<algorithm>
+
+1637954363 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\comemorativa.h
+	"Tarefa.h"
+
+1637088978 c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\include\switchexception.h
+	<exception>
+	<string>
+
+1637954363 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\comemorativa.cpp
+	"Comemorativa.h"
+
+1637963880 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\data.cpp
+	"Data.h"
+	<string>
+
+1638016714 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\educacao.cpp
+	"Educacao.h"
+	<iomanip>
+
+1638017946 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\esporte.cpp
+	"Esporte.h"
+	<iomanip>
+
+1638118060 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\gerenciador.cpp
+	"Gerenciador.h"
+	<algorithm>
+
+1638017554 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\lazer.cpp
+	"Lazer.h"
+
+1637089434 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\switchexception.cpp
+	"SwitchException.h"
+
+1638031867 source:c:\users\a lenda\documents\projeto lp1 etp 3\tarefas v3.3\src\tarefa.cpp
+	"Tarefa.h"
+	<iostream>
+	<iomanip>
+	<string>
+

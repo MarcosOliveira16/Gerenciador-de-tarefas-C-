@@ -1,0 +1,24 @@
+====================================================
+Titulo: Amistoso volei
+Característica: Esporte
+Descricao: Conhecer o povo do centro
+Dia/Mes/Ano: 10/12/2021
+Duração: 90m
+Local: Ginasio
+Veiculo: Não é necessário veículos para praticar esse esporte.
+Formato (individual ou em equipe): equipe
+Objetivo: Nao machucar
+Quantidade de participantes: 24
+====================================================
+====================================================
+Titulo: Pelada dos universitarios
+Característica: Esporte
+Descricao: Quem perde paga a pizza
+Dia/Mes/Ano: 12/12/2021
+Duração: 90m
+Local: Almeidao
+Veiculo: Não é necessário veículos para praticar esse esporte.
+Formato (individual ou em equipe): equipe
+Objetivo: Se nao ganhar por goleada, nem comemoro
+Quantidade de participantes: 32
+====================================================

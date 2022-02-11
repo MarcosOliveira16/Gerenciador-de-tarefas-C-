@@ -1,0 +1,18 @@
+====================================================
+Titulo: Revisao
+Característica: Educação
+Descricao: Lista de exercicios sobre polimorfismo
+Dia/Mes/Ano: 11/12/2021
+Disciplina: LP1
+Professor: Adriana
+Período: 2021.1
+====================================================
+====================================================
+Titulo: Apresentacao etapa 3
+Característica: Educação
+Descricao: Acrescentar exception e arquivo
+Dia/Mes/Ano: 13/12/2021
+Disciplina: LAB LP1
+Professor: Derzu
+Período: 2021.1
+====================================================
